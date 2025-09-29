@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main()
+{
+	int i,j;
+	for (i=0,j=1;i<10,j<5;i++){
+		printf("%d%d\n",i,j);
+	}
+}
